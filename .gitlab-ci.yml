@@ -1,7 +1,0 @@
-stage:
-  - Build
-
-  Build code:
-    stage: Build
-    script:
-      make
